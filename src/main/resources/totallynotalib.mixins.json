@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "dev.totallynotmark6.totallynotalib.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "totallynotalib.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
